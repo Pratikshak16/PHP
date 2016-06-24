@@ -1,0 +1,133 @@
+div#infobar
+{
+	margin-top:50px;
+	margin-left:auto;
+	margin-right:155px;
+	width:40%;
+	border-top:solid #000 3px;
+	border-bottom:solid #000 3px;
+	border-left:solid #000 3px;
+	border-right:solid #000 3px;
+	background-color: pink;
+	border-radius:25px;
+	border-width:10px;
+	border-color : white;
+}
+
+div#infobar ul
+{
+	margin:0px;
+	padding : 10px 40px;
+	border-radius:10px;
+	font-family:times new roman;
+	font-size: medium;
+	color: RED;
+	line-height:30px;
+	text-indent:10px;
+	font-weight:BOLD;
+}
+
+
+div#infobar li
+{
+	list-style-type:none;
+	display:inline;
+}
+
+
+div#infobar li a
+{
+	text-indent:10px;
+	text-decoration:none;
+	padding: 5px 10px;
+	color:RED;
+}
+
+
+div#infobar li a:visited
+{
+	color:RED;
+}
+
+
+
+   #div1
+     { 
+       background-color:GREEN;
+	margin-left:auto;
+	margin-right:auto;
+       height:150px;
+       width:1000px;
+       border:3px solid;
+	border-radius:25px;
+	border-width:10px;
+	border-color : white;
+     }
+
+
+   #div2
+    { 
+      margin-top:10px;
+	margin-left:150px;
+      background-color:magenta;
+      height:350px;
+      width:250px;
+      border:3px solid;
+	border-radius:25px;
+	border-width:10px;
+	border-color : white;
+     }
+
+
+
+     #div3
+     { 
+      background-color:orange; 
+margin-top:-300px;
+      margin-left:450px;
+      width:420px;
+      height:420px;
+      border:3px solid;
+	border-radius:25px;
+	border-width:10px;
+	border-color : white;
+     }
+
+
+     #div4
+     {
+      background-color:yellow;
+      margin-top:-480px;
+      margin-left:950px;
+      margin-right:right; 
+     height:400px;
+      width:200px;
+      border:3px solid;
+	border-radius:25px;
+	border-width:10px;
+	border-color : white;
+     }
+
+
+
+     #div5
+     { 
+      background-color:green;
+	margin-left:auto;
+	margin-right:auto;
+      margin-top:100px;
+      height:200px;
+      width:1000px;
+      border:3px solid;
+	border-radius:25px;
+	border-width:10px;
+	border-color : white;
+      }
+
+
+#page-wrap 
+{
+  text-align: left;
+  width: 1002px;
+  margin: 0 auto;
+}
